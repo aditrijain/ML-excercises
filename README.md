@@ -7,7 +7,8 @@ This repository contains my hands-on practice with core Machine Learning topics,
 - **PCA (Principal Component Analysis)**  
 ### 📌 Unsupervised Learning
 - **GMM (Gaussian Mixture Models)** 
-
+### 📌 Neural Networks
+- **Forward and Back propagation**
 ## 🛠️ Tools & Libraries Used
 
 - Python (Jupyter Notebooks)  
