@@ -10,7 +10,7 @@ This repository contains my hands-on practice with core Machine Learning topics,
 ### 📌 Neural Networks
 - **Forward and Back propagation**
 - ### 📌 Supervised Learning
-- **Logistic Regression**
+- **Linear Regression**
 ## 🛠️ Tools & Libraries Used
 
 - Python (Jupyter Notebooks)  
