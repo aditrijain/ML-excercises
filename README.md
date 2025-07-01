@@ -11,6 +11,7 @@ This repository contains my hands-on practice with core Machine Learning topics,
 - **Forward and Back propagation**
 - ### 📌 Supervised Learning
 - **Linear Regression**
+- **Logistic Regression**
 ## 🛠️ Tools & Libraries Used
 
 - Python (Jupyter Notebooks)  
