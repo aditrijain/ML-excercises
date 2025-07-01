@@ -9,7 +9,7 @@ This repository contains my hands-on practice with core Machine Learning topics,
 - **GMM (Gaussian Mixture Models)** 
 ### 📌 Neural Networks
 - **Forward and Back propagation**
-- ### 📌 Supervised Learning
+### 📌 Supervised Learning
 - **Linear Regression**
 - **Logistic Regression**
 ## 🛠️ Tools & Libraries Used
